@@ -107,7 +107,7 @@ namespace LostV2
 
             }
             switch (scene)
-            {
+            { 
                 case 0:
                     outputLabel.Text = "You are lost in a forest."; //start scene 
                     redLabel.Text = "Go North";
